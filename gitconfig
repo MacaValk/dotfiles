@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = macarenavalcarlos.19.11@gmail.com
+	name = macarena valcarlos
